@@ -1,16 +1,28 @@
-### Hi there 👋
+Hola!, soy Melina 👋
+
+✨Bienvenido a mi perfil de Github   ✨ 
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
+
+- 🎓 &nbsp; Soy Analista Programador Universitario y actualmente estudio en el Bootcamp Soy Henry.
+
+- 🌱 &nbsp; Aprendiendo sobre tecnología en la nube, diseño de sistemas.
+
+- ✍️ &nbsp; Seguir el desarrollo web como pasatiempos / actividades secundarias.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 BackEnd:   Node.js || Express || Sequelize || Postgres
+
+- 🌐 FrontEnd:   HTML || CSS || React || Redux
 
 <!--
-**mel212333/mel212333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
