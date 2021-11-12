@@ -15,7 +15,7 @@ Hola!, soy Melina 👋
 - ✍️ &nbsp; Seguir el desarrollo web como pasatiempos / actividades secundarias.
 
 
-
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <h3>🛠 Tech Stack</h3>
 
 - 💻 BackEnd:   Node.js || Express || Sequelize || Postgres
