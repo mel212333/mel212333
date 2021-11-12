@@ -67,7 +67,7 @@ Hola!, soy Melina 👋
 
 ### Iconos & badgets sociales
 
-<p>Instagram <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
+<p>Instagram <a href="https://www.instagram.com/meleliana2123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
 </p>
 
 <p>
