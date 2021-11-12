@@ -65,3 +65,18 @@ Hola!, soy Melina 👋
   </tr>
 </table>
 
+### Iconos & badgets sociales
+
+<p>Instagram <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/melina-flores2021/">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="mail:melina212333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
