@@ -70,8 +70,8 @@ Hola!, soy Melina 👋
 
 ### Iconos & badgets sociales
 
-### <a href="https://www.instagram.com/bruno8a_10/?hl=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/bruno8a_10/?hl=e" target="_blank">Bruno Ochoa</a>
-Soy Analista programador universitario en la Universidad Nacional de Jujuy y alumno de la carrera de desarrollador web Full Stack en #SoyHenry.. <a href="https://www.instagram.com/bruno8a_10/?hl=es" target="_blank">!</a>
+### <a href="https://www.instagram.com/meleliana2123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/bruno8a_10/?hl=e" target="_blank">Melina Flores</a>
+ <a href="https://www.instagram.com/bruno8a_10/?hl=es" target="_blank">!</a>
 
 <p>
  
