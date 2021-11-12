@@ -70,7 +70,7 @@ Hola!, soy Melina 👋
 
 ### Iconos & badgets sociales
 
-### <a href="https://www.instagram.com/meleliana2123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/bruno8a_10/?hl=e" target="_blank">Melina Flores</a>
+### <a href="https://www.instagram.com/meleliana2123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/meleliana2123/" target="_blank">Melina Flores</a>
  <a href="https://www.instagram.com/bruno8a_10/?hl=es" target="_blank"></a>
 
 <p>
