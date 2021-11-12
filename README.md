@@ -72,7 +72,9 @@ Hola!, soy Melina 👋
 
 <p>
   <a href="https://www.linkedin.com/in/melina-flores2021/">
-  
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/melina-flores2021/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mail:melina212333@gmail.com">
