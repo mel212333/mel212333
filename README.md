@@ -8,7 +8,7 @@ Hola!, soy Melina 👋
 
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 
-- 🎓 &nbsp; Soy Analista Programador Universitario y actualmente estudio en el Bootcamp Soy Henry.
+- 🎓 &nbsp; Soy Analista Programador Universitario y actualmente soy autodidacta.
 
 - 🌱 &nbsp; Aprendiendo sobre tecnología en la nube, diseño de sistemas.
 
