@@ -21,11 +21,13 @@
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
 </p>
 
 ### Backend & DB
@@ -47,17 +49,17 @@
 
 ---
 
-## ⭐ Proyecto destacado
-### 🧾 Sistema de Compras (Full Stack)
-Gestión de requerimientos, flujo de aprobaciones, presupuestos por proveedor y administración de ítems.
+## ⭐ Proyectos destacados
 
-- 🔐 Login + roles / rutas protegidas
-- 🔄 Flujo de estados (ej: BORRADOR → PEND_APROB_N1 → ...)
-- 🧩 API REST + validaciones
-- 🎨 UI con React + Tailwind
+### 🧾 Sistema de Compras — Frontend (React)
+Interfaz del sistema: formularios, flujo de carga y pantallas del módulo compras.
 
-📌 Repo: (poné acá el link)
-📌 Demo: (si tenés, poné el link)
+📌 Repo: https://github.com/mel212333/sistemacompras_frontend
+
+### 🧾 Sistema de Compras — Backend (Node.js + Express)
+API REST, autenticación, lógica de negocio y conexión a base de datos.
+
+📌 Repo: https://github.com/mel212333/compras-backend-node
 
 ---
 
@@ -65,18 +67,16 @@ Gestión de requerimientos, flujo de aprobaciones, presupuestos por proveedor y 
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&theme=radical&card_width=450em" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mel212333&theme=radical&card_width=450em" />
     </td>
     <td valign="top">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mel212333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌐 Contacto
-<a href="https://www.instagram.com/melyflores2123/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/melyflores2123/" target="_blank">Instagram</a>
+## 📫 Contacto
+- Email: melina212333@gmail.com
+- GitHub: https://github.com/mel212333
